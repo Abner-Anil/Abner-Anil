@@ -1,10 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+</p><br clear="both">
 
-###
-
-<br clear="both">
-
-<h1 align="left">Hello There! I am Abner Anil</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hello+there!+I+am+Abner;" />
 
 ###
 
@@ -12,7 +9,7 @@
 
 ###
 
-<h6 align="left">Hi, I'm Abner 👋  <br><br>I'm passionate about building smart solutions using *IoT 🤖 and AI 🧠*.  <br>I enjoy creating projects that combine hardware and software to solve real-world problems.<br><br>🔧 I love working on:<br>- IoT systems (Arduino, sensors, automation)<br>- AI/ML projects (object detection, smart systems)<br>- App integration with hardware<br><br>🌱 Currently learning:<br>- Advanced AI models<br>- IoT + Cloud integration (Firebase, APIs)<br>- Full-stack development<br><br>🚀 My goal:<br>To build innovative tech projects that make life easier and smarter.<br><br>⚡ Fun fact:<br>I enjoy turning ideas into real working prototypes!</h6>
+<p align="left">Hi, I'm Abner 👋  <br><br>I'm passionate about building smart solutions using *IoT 🤖 and AI 🧠*.  <br>I enjoy creating projects that combine hardware and software to solve real-world problems.<br><br>🔧 I love working on:<br>- IoT systems (Arduino, sensors, automation)<br>- AI/ML projects (object detection, smart systems)<br>- App integration with hardware<br><br>🌱 Currently learning:<br>- Advanced AI models<br>- IoT + Cloud integration (Firebase, APIs)<br>- Full-stack development<br><br>🚀 My goal:<br>To build innovative tech projects that make life easier and smarter.<br><br>⚡ Fun fact:<br>I enjoy turning ideas into real working prototypes!</p>
 
 ###
 
@@ -80,8 +77,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abner-Anil &hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abner-Anil &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Abner-Anil&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=2&order=3" height="158" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abner-Anil&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Abner-Anil?theme=asoul&padding=6&scale=1&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
