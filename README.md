@@ -1,15 +1,20 @@
 </p><br clear="both">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hello+there!+I+am+Abner;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito:wght@700+Code&size=40&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Hello+there!+I+am+Abner;" />
 
-###
+
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">Hi, I'm Abner 👋  <br><br>I'm passionate about building smart solutions using *IoT 🤖 and AI 🧠*.  <br>I enjoy creating projects that combine hardware and software to solve real-world problems.<br><br>🔧 I love working on:<br>- IoT systems (Arduino, sensors, automation)<br>- AI/ML projects (object detection, smart systems)<br>- App integration with hardware<br><br>🌱 Currently learning:<br>- Advanced AI models<br>- IoT + Cloud integration (Firebase, APIs)<br>- Full-stack development<br><br>🚀 My goal:<br>To build innovative tech projects that make life easier and smarter.<br><br>⚡ Fun fact:<br>I enjoy turning ideas into real working prototypes!</p>
+<p align="left">Hi, I'm Abner 👋  <br><br>I'm passionate about building smart solutions using *IoT 🤖 and AI 🧠*.  <br>I enjoy creating projects that combine hardware and software to solve real-world problems.<br><br>🔧 I love working on:<br>- IoT systems (Arduino, sensors, automation)<br>- AI/ML projects (object detection, smart systems)<br>- App integration with hardware<br><br>🌱 Currently learning:<br>- Advanced AI models<br>- IoT + Cloud integration (Firebase, APIs)<br>- Full-stack development<br><br>🚀 My goal:<br>To build innovative tech projects that make life easier and smarter.<br><br>⚡ Fun fact:<br>I enjoy turning ideas into real working prototypes </p><br></br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-IoT-blue?style=for-the-badge&logo=arduino"/>
+  <img src="https://img.shields.io/badge/Learning-AI-green?style=for-the-badge&logo=python"/>
+</p>
 
 ###
 
@@ -76,9 +81,22 @@
 
 ###
 
+<p align="center"></p>
+
+###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abner-Anil&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=2&order=3" height="158" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abner-Anil&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abner-Anil&radius=16&theme=redical&area=true&order=5&custom_title=My%20This%20month%20activity%20Graph" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">Github Stat</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abner-Anil&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
