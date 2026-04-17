@@ -1,7 +1,7 @@
 </p><br clear="both">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito:wght@700+Code&size=40&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hello+there!+I+am+Abner;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito:wght@700+Code&size=40&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Hello+there!+I+am+Abner;" />
 
 
 
@@ -9,7 +9,12 @@
 
 ###
 
-<p align="left">Hi, I'm Abner 👋  <br><br>I'm passionate about building smart solutions using *IoT 🤖 and AI 🧠*.  <br>I enjoy creating projects that combine hardware and software to solve real-world problems.<br><br>🔧 I love working on:<br>- IoT systems (Arduino, sensors, automation)<br>- AI/ML projects (object detection, smart systems)<br>- App integration with hardware<br><br>🌱 Currently learning:<br>- Advanced AI models<br>- IoT + Cloud integration (Firebase, APIs)<br>- Full-stack development<br><br>🚀 My goal:<br>To build innovative tech projects that make life easier and smarter.<br><br>⚡ Fun fact:<br>I enjoy turning ideas into real working prototypes!</p>
+<p align="left">Hi, I'm Abner 👋  <br><br>I'm passionate about building smart solutions using *IoT 🤖 and AI 🧠*.  <br>I enjoy creating projects that combine hardware and software to solve real-world problems.<br><br>🔧 I love working on:<br>- IoT systems (Arduino, sensors, automation)<br>- AI/ML projects (object detection, smart systems)<br>- App integration with hardware<br><br>🌱 Currently learning:<br>- Advanced AI models<br>- IoT + Cloud integration (Firebase, APIs)<br>- Full-stack development<br><br>🚀 My goal:<br>To build innovative tech projects that make life easier and smarter.<br><br>⚡ Fun fact:<br>I enjoy turning ideas into real working prototypes!</p><br></br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-IoT-blue?style=for-the-badge&logo=arduino"/>
+  <img src="https://img.shields.io/badge/Learning-AI-green?style=for-the-badge&logo=python"/>
+</p>
 
 ###
 
@@ -68,7 +73,7 @@
 ###
 
 <div align="left">
-  <a href="abner_anil_" target="_blank">
+  <a href="https://www.instagram.com/abner_anil_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="akkuponnuelavila@gmail.com" target="_blank">
@@ -95,9 +100,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abner-Anil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abner-Anil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="225" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Abner-Anil&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abner-Anil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abner-Anil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="241" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Abner-Anil&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
